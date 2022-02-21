@@ -1,0 +1,13 @@
+{
+    "name": "edreams/hotel-search-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
